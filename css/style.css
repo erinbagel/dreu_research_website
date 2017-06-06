@@ -945,6 +945,12 @@ a.btn:focus{
 }
 
 /* --- progress --- */
+
+.panel-body { 
+	margin: 0;
+	text-align: left;
+ }
+
 .progress {
   height: 40px;
 
