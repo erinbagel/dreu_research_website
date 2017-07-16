@@ -6,6 +6,9 @@
 	margin:0;
 }
 
+.rotate90{
+	transform: rotate(90deg);
+}
 
 body {
     width: 100%;
